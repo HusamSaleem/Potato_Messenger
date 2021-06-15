@@ -5,6 +5,7 @@
 
 # Client Side Repo
 - https://github.com/HusamSaleem/Potato_Messenger_Client
+- Has pictures of what the app looks like ^^^ :)
 
 # Server Side Repo
 - https://github.com/HusamSaleem/Potato_Messenger_Server
